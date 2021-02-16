@@ -19,8 +19,8 @@
 # limitations under the License.
 #
 
-__version__ = "0.1.54"
-__author__ = "Ran Aroussi"
+__version__ = "0.1.55"
+__author__ = "Kyle Sheehy"
 
 from .ticker import Ticker
 from .tickers import Tickers
